@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou [Seu Nome]! 👋
 
-<!--
-**Salles-Henrique/Salles-Henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estou iniciando minha jornada no desenvolvimento web, focando em **HTML** e **CSS** para me tornar um **Web Designer Front-End**. Tenho interesse em criar interfaces atraentes e funcionais, proporcionando boas experiências aos usuários.
 
-Here are some ideas to get you started:
+## Tecnologias em Aprendizado:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+
+## Objetivos Atuais:
+
+- Aprofundar meus conhecimentos em HTML e CSS
+- Explorar práticas modernas de design responsivo
+- Construir projetos práticos para fortalecer meu portfólio
+
+## Conecte-se Comigo:
+
+[![LinkedIn](https://www.linkedin.com/in/henrique-salles-0882aa245/)
+[![E-mail](salleshenrique221@gmail.com)
+[![E-mail](https://www.instagram.com/webs.abi/)
+
+---
+
+*Estou entusiasmado para aprender e colaborar em projetos que desafiem minhas habilidades e ampliem meu conhecimento no desenvolvimento front-end.*
