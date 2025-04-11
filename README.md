@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou Henrique Salles! 👋
 
 Atualmente, estou iniciando minha jornada no desenvolvimento web, focando em **HTML** e **CSS** para me tornar um **Web Designer Front-End**. Tenho interesse em criar interfaces atraentes e funcionais, proporcionando boas experiências aos usuários.
 
@@ -15,9 +15,9 @@ Atualmente, estou iniciando minha jornada no desenvolvimento web, focando em **H
 
 ## Conecte-se Comigo:
 
-[![LinkedIn](https://www.linkedin.com/in/henrique-salles-0882aa245/)
-[![E-mail](salleshenrique221@gmail.com)
-[![E-mail](https://www.instagram.com/webs.abi/)
+[LinkedIn](https://www.linkedin.com/in/henrique-salles-0882aa245/)
+[E-mail](salleshenrique221@gmail.com)
+[instagram](https://www.instagram.com/webs.abi/)
 
 ---
 
