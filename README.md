@@ -13,11 +13,6 @@ Atualmente, estou iniciando minha jornada no desenvolvimento web, focando em **H
 - Explorar práticas modernas de design responsivo
 - Construir projetos práticos para fortalecer meu portfólio
 
-## Conecte-se Comigo:
-
-[LinkedIn](https://www.linkedin.com/in/henrique-salles-0882aa245/)
-[E-mail](salleshenrique221@gmail.com)
-[instagram](https://www.instagram.com/webs.abi/)
 
 ---
 
